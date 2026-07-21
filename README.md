@@ -44,3 +44,6 @@ uvicorn backend.app:app --reload
 ```bash
 streamlit run frontend/app.py
 ```
+##Deploy
+Backend:https://mldl-project-1.onrender.com/docs
+Frontend:https://mldl-project-sqdmqugfvwzdmjw4cfytvk.streamlit.app/
